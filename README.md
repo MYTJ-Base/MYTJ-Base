@@ -1,3 +1,6 @@
+![Banner](https://github.com/MYTJ-Base/MYTJ-Base/blob/main/images/TJ_logo.png)
+
+
 # Mighty J.
 
 > "Turning intuition into structure, and structure into something reliable."
